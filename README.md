@@ -1,6 +1,8 @@
 <h1 align="center">Sup, I'm Kunefe</h1>
 <h3 align="center">Beginner developer from Turkiye</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunefewastakenn&label=Profile%20views&color=0e75b6&style=flat" alt="kunefewastakenn" /> </p>
+
 - 👨‍💻 All of my projects are available at [https://kunefewastaken.rf.gd/](https://kunefewastaken.rf.gd/)
 
 <h3 align="left">Connect with me:</h3>
