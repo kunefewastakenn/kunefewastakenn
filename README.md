@@ -1,5 +1,5 @@
 <h1 align="center">Sup, I'm CursR</h1>
-<h3 align="center">Beginner developer from Turkiye</h3>
+<h3 align="center">Beginner developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunefewastakenn&label=Profile%20views&color=0e75b6&style=flat" alt="kunefewastakenn" /> </p>
 
