@@ -1,3 +1,6 @@
+
+https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif
+
 <h1 align="center">Sup, I'm CursR</h1>
 <h3 align="center">Beginner developer from Turkiye</h3>
 
