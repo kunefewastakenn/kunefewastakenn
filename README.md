@@ -1,4 +1,4 @@
-<h1 align="center">Sup, I'm CursR</h1>
+[[[<h1 align="center">Sup, I'm CursR</h1>
 <h3 align="center">Beginner developer from Turkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunefewastakenn&label=Profile%20views&color=0e75b6&style=flat" alt="kunefewastakenn" /> </p>
@@ -23,3 +23,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/kunefewastakenn"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kunefewastakenn" /></a></p><br><br>
+](https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif)](https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif)](https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif)
