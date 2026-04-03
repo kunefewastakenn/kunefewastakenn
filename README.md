@@ -4,9 +4,9 @@
 
 *linux poser · open source enjoyer*
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kunefewastaken1)
+[![X](https://img.shields.io/badge/x-%231DA1F2.svg?style=flat&logo=X&logoColor=white)](https://x.com/kunefewastaken1)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kunefewastakenn_)
-[![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/UFEEaW4hZb)
+[![Discord Server](https://img.shields.io/badge/discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/UFEEaW4hZb)
 [![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/kunefewastakenn)
 
 
@@ -21,7 +21,7 @@
 ---
 
 ### Profile Views Counter:
-![](https://komarev.com/ghpvc/?username=itshasanaslan&color=blue)
+![](https://komarev.com/ghpvc/?username=kunefewastakenn&color=blue)
 
 ---
 
