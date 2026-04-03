@@ -9,21 +9,8 @@
 [![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/UFEEaW4hZb)
 [![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/kunefewastakenn)
 
-</div>
 
----
-
-```
-os      cachyos (arch) 
-wm      hyprland
-term    kitty + fish shell
-editor  code and nvim (lazyvim)
-```
-
----
-
-### stack
-
+### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
@@ -33,15 +20,13 @@ editor  code and nvim (lazyvim)
 
 ---
 
-### projects
-
-| project | what | lang |
-|---|---|---|
-| [cscase2](https://github.com/kunefewastakenn/cscase2) | case simulator — case opening game with pygame - oldest project alive | python |
-| [desktopgifplayer](https://github.com/kunefewastakenn/desktopgifplayer) | desktopgifplayer - must be obvious to play gifs always on top | python |
+### Profile Views Counter:
+![](https://komarev.com/ghpvc/?username=itshasanaslan&color=blue)
 
 ---
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=kunefewastakenn" alt="profile views"/>
+### Activity Graph:
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kunefewastakenn&theme=react-dark)
 </div>
+
+
